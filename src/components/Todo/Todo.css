@@ -1,0 +1,10 @@
+.App-wrapper {
+    /* background-color: black; */
+    min-width: 450px;
+    min-height: 550px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 17px 20px 60px black;
+    margin-bottom: 10px;
+
+}

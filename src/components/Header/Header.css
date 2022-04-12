@@ -1,0 +1,27 @@
+.header h1 {
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+
+.subHeading h2 {
+    color: white;
+    text-align: center;
+    margin: -26px
+}
+
+@media (max-width:576px) {
+    .header h1 {
+        color: whredite;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .subHeading h2 {
+        color: white;
+        text-align: center;
+
+    }
+
+
+}
